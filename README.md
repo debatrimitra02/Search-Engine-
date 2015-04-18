@@ -20,7 +20,7 @@ Ranking ==>
 1. Using TF-IDF based scores to score each document based on the search term and finding the nearest neighbors using the ranking metric. 
 2. Scalable code to do the whole search in few ms.
 
-Evaluation====>
+Evaluation====> 
 1. Google is considered as gold standard.
 2. Google has been pinged through a code on the same search query restricting the results withing ics.uci.edu domain
 3. Calculating NSDA scores and validating our search results. 
