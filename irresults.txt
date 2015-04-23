@@ -1,0 +1,148 @@
+Query is: mondego 
+
+Results are: 
+
+http://mondego.ics.uci.edu/ 
+http://www.ics.uci.edu/~djp3/classes/2006_03_30_ICS105/Resources/AnteaterIdol.html 
+http://www.ics.uci.edu/community/news/notes/notes_2013.php 
+http://www.ics.uci.edu/~lopes/datasets/sourcerer-maven-aug12.html 
+http://www.ics.uci.edu/~lopes/datasets/Koders-log-2007.html 
+http://www.ics.uci.edu/~djp3/classes/2006_03_30_ICS105/ 
+
+
+Query is: machine learning 
+
+Results are: 
+
+http://www.ics.uci.edu/~pazzani/Publications/APubs.html 
+http://isg.ics.uci.edu/events.html 
+http://archive.ics.uci.edu/ml/support/Breast+Cancer 
+http://www.ics.uci.edu/~pazzani/RTF/AAAI.html 
+http://archive.ics.uci.edu/ml/support/Statlog+Project 
+http://archive.ics.uci.edu/ml/support/Diabetes 
+http://archive.ics.uci.edu/ml/support/Mushroom 
+http://archive.ics.uci.edu/ml/support/Breast+Cancer+Wisconsin+(Prognostic) 
+http://www.ics.uci.edu/~pazzani/Publications/alz_dd_amia_fs97.html 
+http://archive.ics.uci.edu/ml/support/Ionosphere 
+
+
+Query is: software engineering 
+
+Results are: 
+
+http://www.ics.uci.edu/~redmiles/publications.html 
+http://www.ics.uci.edu/~tlatoza/ 
+http://www.ics.uci.edu/~taylor/index.html 
+http://cradl.ics.uci.edu/?author=2&feed=rss2 
+http://www.ics.uci.edu/~nlopezgi/ 
+http://cradl.ics.uci.edu/?cat=3&feed=rss2 
+http://www.ics.uci.edu/~guoqingx/research/publications.html 
+http://www.ics.uci.edu/~vpalepu/archives.html 
+http://vcp.ics.uci.edu/biblio?page=14 
+http://vcp.ics.uci.edu/biblio?page=6 
+
+
+Query is: security 
+
+Results are: 
+
+http://www.ics.uci.edu/~gts/pubs.html 
+http://www.ics.uci.edu/community/news/notes/notes_2007.php 
+http://www.ics.uci.edu/community/news/notes/notes_2009.php 
+http://www.ics.uci.edu/community/news/notes/notes_2010.php 
+http://www.ics.uci.edu/~kobsa/privacy/Portugal.htm 
+http://www.ics.uci.edu/community/news/notes/notes_2012.php 
+http://www.ics.uci.edu/~kobsa/privacy/israel.htm 
+http://www.ics.uci.edu/~kobsa/privacy/Italian-privacy-law.html 
+http://www.ics.uci.edu/~kobsa/privacy/argentine-privacy.htm 
+http://www.ics.uci.edu/~kobsa/privacy/greece.htm
+
+
+Query is: student affairs 
+
+Results are: 
+
+http://www.ics.uci.edu/ugrad/ 
+http://www.ics.uci.edu/ugrad/index.php 
+http://www.ics.uci.edu/grad/ 
+http://www.ics.uci.edu/grad/index.php 
+http://www.ics.uci.edu/ugrad/degrees/second_baccs.php 
+http://www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission.php 
+http://www.ics.uci.edu/community/news/notes/notes_2010.php 
+http://www.ics.uci.edu/ugrad/degrees/degree_dis.php 
+http://www.ics.uci.edu/~pattis/ICS-31/handouts/syllabus/syllabus.html 
+http://www.ics.uci.edu/community/news/notes/notes_2007.php 
+
+
+Query is: graduate courses 
+
+Results are: 
+
+http://www.ics.uci.edu/community/news/notes/notes_2013.php 
+http://www.ics.uci.edu/grad/courses/index 
+http://www.ics.uci.edu/community/news/spotlight/spotlight_yosiphon.php 
+http://www.ics.uci.edu/grad/courses/ 
+
+
+Query is: crista lopes 
+
+Results are: 
+
+http://www.ics.uci.edu/community/news/notes/notes_2007.php 
+http://luci.ics.uci.edu/blog/?feed=rss2&tag=wikipedia 
+http://luci.ics.uci.edu/blog/?feed=rss2&tag=virtual-reality 
+http://luci.ics.uci.edu/blog/?feed=rss2&tag=andre-van-der-hoek 
+http://luci.ics.uci.edu/blog/?feed=rss2&tag=sara-javanmardi 
+http://luci.ics.uci.edu/blog/?paged=3&tag=ubiquitous-computing 
+http://luci.ics.uci.edu/blog/?paged=3&tag=photos 
+http://luci.ics.uci.edu/blog/?cpage=1&p=43 
+http://luci.ics.uci.edu/blog/?p=43&replytocom=25 
+http://luci.ics.uci.edu/blog/?p=43&replytocom=24 
+
+
+Query is: rest 
+
+Results are: 
+
+http://asterix.ics.uci.edu/download/bindings/asterix-sdk-stable.js 
+http://www.ics.uci.edu/~kobsa/privacy/German.htm 
+http://www.ics.uci.edu/~pattis/ICS-21/lectures/usingclasses/lecture.html 
+http://www.ics.uci.edu/~pattis/ICS-21/lectures/arrays1d/lecture.html 
+http://drzaius.ics.uci.edu/meta/classes/informatics161_fall06/papers/01kling.html 
+http://www.ics.uci.edu/~tdebeauv/ 
+http://soc.ics.uci.edu/Resources/collab.php?572 
+http://www.ics.uci.edu/~dechter/courses/ics-275a/fall-99/slides/node155.html 
+http://www.ics.uci.edu/~rohit/ 
+http://luci.ics.uci.edu/blog/?author=3&feed=rss2 
+
+
+Query is: computer games 
+
+Results are: 
+
+http://cgvw.ics.uci.edu/studying-computer-games-is-no-waste/ 
+http://cgvw.ics.uci.edu/oc-weekly-game-on/ 
+http://cgvw.ics.uci.edu/la-times-uc-irvine-takes-video-games-to-the-next-level/ 
+http://cgvw.ics.uci.edu/tag/computer-games/ 
+http://cgvw.ics.uci.edu/the-future-of-research-in-computer-games-and-virtual-worlds/ 
+http://cgvw.ics.uci.edu/hello-world/ 
+http://cgvw.ics.uci.edu/266/ 
+http://cgvw.ics.uci.edu/category/in-the-news/ 
+http://cgvw.ics.uci.edu/tag/virtual-worlds/ 
+http://cgvw.ics.uci.edu/tag/research/ 
+
+
+Query is: information retrieval 
+
+Results are: 
+
+http://www.ics.uci.edu/~lopes/teaching/cs221W12/index.html 
+http://www.ics.uci.edu/~lopes/teaching/cs221W14/index.html 
+http://www.ics.uci.edu/~lopes/teaching/cs221W15/index.html 
+http://www.ics.uci.edu/~lopes/teaching/cs221W13/index.html 
+http://www.ics.uci.edu/~pazzani/RTF/AAAI.html 
+http://www.ics.uci.edu/~djp3/classes/2010_01_CS221/assignmentSchedule.html 
+http://www.ics.uci.edu/~djp3/classes/2008_09_26_CS221/calendar.html 
+http://www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/calendar.html 
+http://luci.ics.uci.edu/blog/?paged=3&tag=app 
+http://luci.ics.uci.edu/blog/?paged=2&tag=google 
